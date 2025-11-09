@@ -62,8 +62,11 @@ This lab demonstrates:
 ##  How to Run Locally
 In Terminal, type:
 git clone https://github.com/ekjotkaursault/pokemon_api_app1.git
+
 cd pokemon_api_app1
+
 flutter pub get
+
 flutter run -d chrome
 
 ---
@@ -74,3 +77,4 @@ Ekjot Kaur
 Sault College – Toronto Campus
 
 Lab 4 – API Integration using Flutter Web (CSD228)
+
