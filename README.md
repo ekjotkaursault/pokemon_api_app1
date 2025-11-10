@@ -63,11 +63,11 @@ This lab demonstrates:
 In Terminal, type:
 git clone https://github.com/ekjotkaursault/pokemon_api_app1.git
 
-cd pokemon_api_app1
+1. cd pokemon_api_app1 
 
-flutter pub get
+2. flutter pub get   (download the dependencies)
 
-flutter run -d chrome
+3. flutter run -d chrome  (run it directly on chrome browser)
 
 ---
 
@@ -77,4 +77,5 @@ Ekjot Kaur
 Sault College – Toronto Campus
 
 Lab 4 – API Integration using Flutter Web (CSD228)
+
 
